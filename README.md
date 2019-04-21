@@ -1,2 +1,6 @@
-# Selection-Sort
-Selection Sort using Recursion in Java
+sorting
+
+Bubble Sort
+Counting Sort
+Insertion Sort
+Shell Sort
